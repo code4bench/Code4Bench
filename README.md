@@ -19,7 +19,7 @@ The schema of Code4Bench is drawn below
 
 # Fields definition
 <table>
-<thead><tr><th>Filed Name</th><th>Description</th></tr></thead><tbody>
+<thead><tr><th>Field Name</th><th>Description</th></tr></thead><tbody>
  <thead><tr><th colspan="2" >source</th></tr></thead><tbody>
  <tr><td>id</td><td>A unique number</td></tr>
  <tr><td>submission</td><td>ID number given by Codeforces to this submission</td></tr>
@@ -129,7 +129,7 @@ The schema of Code4Bench is drawn below
  <tr><td>matchLines</td><td>The number of identical lines between the faulty and correct versions</td></tr>
 </tbody></table>
 
-# Data in Code4Cench
+# Data in Code4Bench
 The number of submissions for each programming language are listed below
 
 <table>
