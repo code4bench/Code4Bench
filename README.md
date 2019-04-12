@@ -15,7 +15,7 @@ code4bench is now available for download at http://doi.org/10.5281/zenodo.258296
 
 # Code4Bench Schema
 The schema of Code4Bench is drawn below
-![alt text](https://github.com/code4bench/Code4Bench/blob/master/db11.png)
+![alt text](https://github.com/code4bench/Code4Bench/blob/master/DBSchema.png)
 
 # Fields definition
 <table>
